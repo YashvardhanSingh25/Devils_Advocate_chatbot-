@@ -1,0 +1,89 @@
+{
+    "ai": [
+        "AI can be biased based on the data it is trained on.",
+        "AI might replace too many human jobs, leading to economic issues.",
+        "AI lacks human creativity and emotional intelligence."
+    ],
+    
+    "technology": [
+        "Technology addiction is a growing concern for mental health.",
+        "Not everyone has equal access to technology, leading to digital divides.",
+        "Privacy concerns are rising with increased surveillance technology."
+    ],
+
+    "artificial intelligence": [
+        "AI is great, but doesn't it lead to massive job losses?",
+        "Can AI ever truly understand emotions and morality?",
+        "What if AI surpasses human intelligence and sees us as a threat?"
+    ],
+    "social media": [
+        "Social media connects people, but isn't it making us more isolated in real life?",
+        "Should companies be allowed to collect and sell personal data?",
+        "Does social media encourage free speech or fuel misinformation?"
+    ],
+    "data privacy": [
+        "If you have nothing to hide, why should you worry about privacy?",
+        "Wouldn't increased surveillance prevent crime?",
+        "Should companies be allowed to profit from user data without consent?"
+    ],
+    "automation": [
+        "Automation makes industries efficient, but doesn't it take away human jobs?",
+        "Is replacing humans with robots ethical?",
+        "What if automation creates a world where only a few people control all the wealth?"
+    ],
+    "censorship": [
+        "Censorship protects society, but doesn't it also suppress free speech?",
+        "If harmful content is removed, who decides what is ‘harmful’?",
+        "Should governments control what people can and cannot say?"
+    ],
+    "universal basic income": [
+        "UBI sounds great, but wouldn’t it discourage people from working?",
+        "If everyone gets money for free, won’t inflation make it worthless?",
+        "Would governments be able to afford UBI in the long run?"
+    ],
+    "gun control": [
+        "Gun control reduces violence, but don’t people have a right to defend themselves?",
+        "If criminals don’t follow gun laws, won’t disarming citizens make them vulnerable?",
+        "Does banning guns actually stop crime, or just shift it to illegal markets?"
+    ],
+    "capital punishment": [
+        "The death penalty is justice, but what if an innocent person is executed?",
+        "Does capital punishment actually deter crime?",
+        "Is taking a life the right way to punish a crime?"
+    ],
+    "free will": [
+        "We feel like we have free will, but are our choices actually determined by our past and biology?",
+        "If everything happens for a reason, do we really have control over our actions?",
+        "Is free will just an illusion created by the brain?"
+    ],
+    "climate change": [
+        "Fighting climate change is important, but do drastic policies hurt economies?",
+        "Is climate change truly man-made, or part of Earth’s natural cycle?",
+        "What if the cost of fixing climate change is too high for developing nations?"
+    ],
+    "veganism": [
+        "Veganism is ethical, but isn’t it also expensive and unrealistic for many people?",
+        "If humans evolved as omnivores, why should we stop eating meat now?",
+        "Does plant-based farming have its own environmental problems?"
+    ],
+    "genetic engineering": [
+        "Gene editing can cure diseases, but what if it leads to ‘designer babies’?",
+        "Should we alter nature just because we have the technology to do so?",
+        "Could genetic engineering create a divide between the rich and poor?"
+    ],
+    "college education": [
+        "College helps people succeed, but isn’t it just an expensive debt trap for many?",
+        "Do degrees really matter in today’s job market?",
+        "Are universities more focused on profits than education?"
+    ],
+    "work-from-home": [
+        "Working from home boosts productivity, but doesn’t it kill collaboration?",
+        "Is remote work really fair to those who can’t work from home?",
+        "Will companies start paying remote workers less since they don’t need office space?"
+    ],
+    "standardized testing": [
+        "Standardized testing measures skills, but does it really reflect intelligence?",
+        "Do test scores matter more than real-world skills?",
+        "Is standardized testing an outdated system that favors wealthy students?"
+    ]
+}
